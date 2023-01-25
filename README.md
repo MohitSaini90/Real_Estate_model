@@ -11,3 +11,11 @@ Create a new environment for project
 `````
 conda create -p venv python==3.10 -y
 `````
+
+Commands to add 
+``````````````````
+git add .
+git status
+git commit -m "This commit includes ..........."
+git push origin main
+``````````````````
